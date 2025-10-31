@@ -1,6 +1,6 @@
-Name: Omkar Dabholkar
-Repo purpose: Submission for INIT selection tasks (Task 1 — Python/Data Challenge & Task 2 — Research Evaluation).
-Note: I have completed Task 2 (Research Evaluation) and am submitting that now. I am learning the skills required for Task 1 and will add the notebook/script for it later.
+<p>Name: Omkar Dabholkar</p>
+<p>Repo purpose: Submission for INIT selection tasks (Task 1 — Python/Data Challenge & Task 2 — Research Evaluation).</p>
+<p>Note: I have completed Task 2 (Research Evaluation) and am submitting that now. I am learning the skills required for Task 1 and will add the notebook/script for it later.</p>
 
 Short summary of task 2
 I read and summarized the AlexNet paper by Krizhevsky et al. (NIPS 2012). The summary explains the model architecture, the practical choices (ReLU, dropout, data augmentation, GPU training) and why it was important to computer vision. The reflection discusses a limitation (large compute/data requirement) and a modern improvement direction (self-supervised learning / lightweight architectures).
